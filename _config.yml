@@ -1,7 +1,0 @@
-title: 我的网站
-description: 使用 Jekyll 和 GitHub Pages 搭建
-theme: minima
-minima:
-  social_links:
-    - { platform: github, user_url: "https://github.com/rayliu8499" }
-    - { platform: twitter, user_url: "https://x.com/RayLiu840909" }
